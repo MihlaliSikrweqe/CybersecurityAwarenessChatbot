@@ -70,6 +70,7 @@ namespace CybersecurityAwarenessChatbot
             if (question == "exit")
             {
                 Console.WriteLine("Goodbye! Stay safe online.");
+                Console.WriteLine("");
             }
             else if (question.Contains("how are you"))
             {
